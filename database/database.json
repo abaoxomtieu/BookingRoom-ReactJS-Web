@@ -153,7 +153,7 @@
   "rooms": [
     {
       "id": "102",
-      "name": "102 a",
+      "name": "102",
       "bedQuantity": 2,
       "peopleQuantity": 4,
       "desc": "Phòng cho gia đình",
@@ -181,13 +181,14 @@
     },
     {
       "id": "405asdsa",
-      "name": "405asdsa",
-      "bedQuantity": 10,
-      "peopleQuantity": 12,
-      "desc": "asdsad",
+      "name": "phòng tình yêu",
+      "bedQuantity": 2,
+      "peopleQuantity": 4,
+      "desc": "ĐI phòng này xong yêu gấp đôi",
       "utils": [
         "Nóng lạnh",
-        "Điều hòa"
+        "Điều hòa",
+        "Wifi"
       ],
       "status": true,
       "typeRoom": true

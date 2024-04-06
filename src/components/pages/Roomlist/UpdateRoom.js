@@ -56,7 +56,7 @@ const UpdateRoom = (props) => {
         error();
         setIsSpinning(false);
       }
-    }, 3000);
+    }, 2000);
   };
 
   return (
