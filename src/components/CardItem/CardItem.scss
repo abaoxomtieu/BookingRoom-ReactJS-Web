@@ -1,0 +1,31 @@
+.card {
+  &__item {
+    border: 1px solid #ddd;
+    padding: 10px 20px;
+    border-radius: 10px;
+    background: #ffffff;
+    display: flex;
+    text-align: center;
+  }
+  &__logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    width: 50px;
+    opacity: 70%;
+    border-radius: 50%;
+    margin-right: 20px;
+    font-size: 25px;
+  }
+  &__content {
+    text-align: left;
+  }
+  &__title {
+    font-weight: 500;
+    font-size: 25px;
+  }
+  &__subtitle {
+    color: gray;
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "book-room": [
+    {
+      "id": "67a6",
+      "time": "14 giờ",
+      "fullName": "Hồ Tôn Bảo",
+      "phone": "0946563711",
+      "email": "htbqn2003@gmail.com",
+      "services": [
+        "Thuê xe máy"
+      ],
+      "gift": "Một em ghệ xinh tươi"
+    },
+    {
+      "id": "cde1",
+      "time": "14 giờ",
+      "fullName": "anh đẹp trai",
+      "phone": "+84949800149",
+      "email": "baohtqe170017@fpt.edu.vn",
+      "services": [
+        "Thuê ô tô 4 chỗ",
+        "Thuê ô tô 7 chỗ"
+      ],
+      "gift": "1 thùng Heniken",
+      "date": [
+        "01/04/2024",
+        "18/04/2024"
+      ]
+    },
+    {
+      "id": "02a0",
+      "time": "14 giờ",
+      "fullName": "anh đẹp trai",
+      "phone": "+84949800149",
+      "email": "baohtqe170017@fpt.edu.vn",
+      "services": [
+        "Thuê ô tô 4 chỗ",
+        "Thuê ô tô 7 chỗ"
+      ],
+      "gift": "1 thùng Heniken",
+      "date": [
+        "01/04/2024",
+        "18/04/2024"
+      ]
+    },
+    {
+      "id": "d430",
+      "time": "14 giờ",
+      "fullName": "anh đẹp trai",
+      "phone": "+84949800149",
+      "email": "baohtqe170017@fpt.edu.vn",
+      "services": [
+        "Thuê ô tô 4 chỗ",
+        "Thuê ô tô 7 chỗ"
+      ],
+      "gift": "1 thùng Heniken",
+      "date": [
+        "01/04/2024",
+        "18/04/2024"
+      ]
+    },
+    {
+      "id": "4910",
+      "time": "14 giờ",
+      "services": [
+        "Thuê xe máy"
+      ],
+      "phone": "+84949800149",
+      "fullName": "Hồ Tôn Bảo",
+      "email": "baohtqe170017@fpt.edu.vn",
+      "date": [
+        "09/04/2024",
+        "14/05/2024"
+      ],
+      "gift": "Karaoke free"
+    },
+    {
+      "id": "ca3e",
+      "time": "14 giờ",
+      "services": [
+        "Thuê xe máy"
+      ],
+      "phone": "+84949800149",
+      "fullName": "Hồ Tôn Bảo",
+      "email": "baohtqe170017@fpt.edu.vn",
+      "date": [
+        "09/04/2024",
+        "14/05/2024"
+      ],
+      "gift": "Karaoke free"
+    },
+    {
+      "id": "abd8",
+      "time": "14 giờ",
+      "services": [
+        "Thuê xe máy"
+      ],
+      "phone": "+84949800149",
+      "fullName": "Hồ Tôn Bảo",
+      "email": "baohtqe170017@fpt.edu.vn",
+      "date": [
+        "09/04/2024",
+        "14/05/2024"
+      ],
+      "gift": "Karaoke free"
+    },
+    {
+      "id": "e65c",
+      "time": "14 giờ",
+      "services": [
+        "Thuê xe máy"
+      ],
+      "phone": "+84949800149",
+      "fullName": "Hồ Tôn Bảo",
+      "email": "baohtqe170017@fpt.edu.vn",
+      "date": [
+        "09/04/2024",
+        "14/05/2024"
+      ],
+      "gift": "Karaoke free"
+    },
+    {
+      "id": "5ea4",
+      "time": "14 giờ",
+      "services": [
+        "Thuê xe máy"
+      ],
+      "phone": "+84949800149",
+      "fullName": "Hồ Tôn Bảo",
+      "email": "baohtqe170017@fpt.edu.vn",
+      "date": [
+        "09/04/2024",
+        "14/05/2024"
+      ],
+      "gift": "Karaoke free"
+    },
+    {
+      "id": "719c",
+      "time": "14 giờ",
+      "services": [
+        "Thuê xe máy"
+      ],
+      "phone": "+84949800149",
+      "fullName": "Hồ Tôn Bảo",
+      "email": "baohtqe170017@fpt.edu.vn",
+      "date": [
+        "09/04/2024",
+        "14/05/2024"
+      ],
+      "gift": "Karaoke free"
+    }
+  ],
+  "rooms": [
+    {
+      "id": "102",
+      "name": "102 a",
+      "bedQuantity": 2,
+      "peopleQuantity": 4,
+      "desc": "Phòng cho gia đình",
+      "utils": [
+        "Nóng lạnh",
+        "Wifi",
+        "Điều hòa"
+      ],
+      "status": true,
+      "typeRoom": false
+    },
+    {
+      "id": "203",
+      "name": "203",
+      "bedQuantity": 3,
+      "peopleQuantity": 6,
+      "desc": "Phòng có đầy đủ, sân vườn, BBQ",
+      "utils": [
+        "Điều hòa",
+        "Nóng lạnh",
+        "Wifi"
+      ],
+      "status": true,
+      "typeRoom": true
+    },
+    {
+      "id": "405asdsa",
+      "name": "405asdsa",
+      "bedQuantity": 10,
+      "peopleQuantity": 12,
+      "desc": "asdsad",
+      "utils": [
+        "Nóng lạnh",
+        "Điều hòa"
+      ],
+      "status": true,
+      "typeRoom": true
+    },
+    {
+      "id": "1111",
+      "name": "1111",
+      "bedQuantity": 2,
+      "peopleQuantity": 3,
+      "desc": "dasdadsadsad",
+      "utils": [
+        "Điều hòa"
+      ],
+      "typeRoom": true
+    }
+  ]
+}

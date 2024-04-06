@@ -1,0 +1,39 @@
+.content {
+  padding: 20px;
+}
+.header {
+  display: flex;
+  border-bottom: 1px solid #ddd;
+  background: #ffffff;
+  &__logo {
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-right: 1px solid #ddd;
+    transition: all 0.2s;
+    &--collapsed {
+      width: 80px;
+      transition: all 0.2s;
+    }
+  }
+
+  &__nav {
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex: 1;
+
+    &--left {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-size: 20px;
+    }
+  }
+  &__collapse {
+    margin-right: 20px;
+    cursor: pointer;
+  }
+}
