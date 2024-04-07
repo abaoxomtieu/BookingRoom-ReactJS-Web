@@ -23,11 +23,12 @@ const StockChart = () => {
     xField: "date",
     yField: ["open", "close", "high", "low"],
     data: data.map((i) => ({ ...i, date: new Date(i.trade_date) })),
+    autoFit: true,
   };
   return (
     <>
       <h2>Example draw stock chart with Ant Design Chart</h2>
-      <Stock {...config} />
+      <Stock  {...config} />
     </>
   );
 };

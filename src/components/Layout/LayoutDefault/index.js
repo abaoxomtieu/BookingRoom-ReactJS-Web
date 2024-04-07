@@ -56,7 +56,15 @@ const LayoutDefault = () => {
             <Outlet />
           </Content>
         </Layout>
-        <Footer>footer</Footer>
+        <Footer
+          style={{
+            textAlign: "center",
+            color: "#fff",
+            backgroundColor: "gray",
+          }}
+        >
+          Abaoxomtieu
+        </Footer>
       </Layout>
     </div>
   );

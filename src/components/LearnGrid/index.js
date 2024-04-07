@@ -31,10 +31,10 @@ const LearnGird = () => {
         </Col>
       </Row>
       <Row gutter={[20, 20]} className="mt-20">
-        <Col xxl={14} xl={14} lg={14} md={24} sm={24} xs={24}>
+        <Col xxl={10} xl={10} lg={10} md={24} sm={24} xs={24}>
           <BarChartView />
         </Col>
-        <Col xxl={10} xl={10} lg={10} md={24} sm={24} xs={24}>
+        <Col xxl={14} xl={14} lg={14} md={24} sm={24} xs={24}>
           <StockChart />
         </Col>
       </Row>
