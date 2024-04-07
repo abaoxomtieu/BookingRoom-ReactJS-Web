@@ -7,16 +7,21 @@ import {
   BarsOutlined,
   UserOutlined,
 } from "@ant-design/icons";
-
+import BarChartView from "../Chart/BarChart";
+import StockChart from "../Chart/StockChart";
 const LearnGird = () => {
   return (
     <>
       <Row gutter={[20, 20]} justify={"center"}>
         <Col xxl={6} xl={6} lg={6} md={12} sm={24} xs={24}>
-          <CardItem color={"#3F87F5"}  title="Box1" logo={<DollarOutlined />} />
+          <CardItem color={"#3F87F5"} title="Box1" logo={<DollarOutlined />} />
         </Col>
         <Col xxl={6} xl={6} lg={6} md={12} sm={24} xs={24}>
-          <CardItem color={"#39D5BB"} title="Box2" logo={<LineChartOutlined />} />
+          <CardItem
+            color={"#39D5BB"}
+            title="Box2"
+            logo={<LineChartOutlined />}
+          />
         </Col>
         <Col xxl={6} xl={6} lg={6} md={12} sm={24} xs={24}>
           <CardItem color={"#FFCF3F"} title="Box3" logo={<BarsOutlined />} />
@@ -26,11 +31,11 @@ const LearnGird = () => {
         </Col>
       </Row>
       <Row gutter={[20, 20]} className="mt-20">
-        <Col xxl={16} xl={16} lg={16} md={24} sm={24} xs={24}>
-          <CardItem title="Box5" style={{ height: "400px" }} />
+        <Col xxl={14} xl={14} lg={14} md={24} sm={24} xs={24}>
+          <BarChartView />
         </Col>
-        <Col xxl={8} xl={8} lg={8} md={24} sm={24} xs={24}>
-          <CardItem title="Box6" style={{ height: "400px" }} />
+        <Col xxl={10} xl={10} lg={10} md={24} sm={24} xs={24}>
+          <StockChart />
         </Col>
       </Row>
       <Row gutter={[20, 20]} className="mt-20">
